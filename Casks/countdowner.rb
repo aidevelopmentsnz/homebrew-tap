@@ -1,6 +1,6 @@
 cask "countdowner" do
-  version "1.0"
-  sha256 "a7db19a516de4b9af48423a5ece5d21bfb3cf2807f2fa1096b9dc2252d0b7929"
+  version "1.0.1"
+  sha256 "186867fcc331e99fda7faa2069f2c2a32d3db1b27e9ae8383e06cf6cc0a101df"
 
   url "https://github.com/aidevelopmentsnz/countdowner/releases/download/v#{version}/Countdowner-#{version}.dmg"
   name "Countdowner"

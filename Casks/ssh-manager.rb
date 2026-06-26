@@ -1,6 +1,6 @@
 cask "ssh-manager" do
-  version "1.0"
-  sha256 "169d2e9d79f6420434034b280092535731ecf2fbc664a3503208446b4c607d78"
+  version "1.0.1"
+  sha256 "501f5ae842777e1d96808938ab521ec779cb75021abc4df5e746f0ce2dd07543"
 
   url "https://github.com/aidevelopmentsnz/ssh-manager/releases/download/v#{version}/SSH-Manager-#{version}.dmg"
   name "SSH Manager"
